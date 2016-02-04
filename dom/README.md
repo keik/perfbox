@@ -1,0 +1,5 @@
+TODO
+
+* structure
+  - traverse
+  - innerHTML
